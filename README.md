@@ -26,8 +26,6 @@ Search Console impressions after shipping this workflow on personal properties. 
 <p align="center">
   <img src="seo-1.jpg" alt="GSC impressions, site 1" width="560"/>
   <img src="seo-2.jpg" alt="GSC impressions, site 2" width="560"/>
-</p>
-<p align="center">
   <img src="seo-3.jpg" alt="GSC impressions, site 3" width="560"/>
 </p>
 
