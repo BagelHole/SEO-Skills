@@ -23,13 +23,13 @@ Run the skills **in this order** on the **site** you are optimizing:
 
 Search Console impressions after shipping this workflow on personal properties. Results vary by site.
 
-<table>
-  <tr>
-    <td align="center" valign="top"><img src="seo-1.jpg" alt="GSC impressions, site 1" width="480"/></td>
-    <td align="center" valign="top"><img src="seo-2.jpg" alt="GSC impressions, site 2" width="480"/></td>
-    <td align="center" valign="top"><img src="seo-3.jpg" alt="GSC impressions, site 3" width="480"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="seo-1.jpg" alt="GSC impressions, site 1" width="560"/>
+  <img src="seo-2.jpg" alt="GSC impressions, site 2" width="560"/>
+</p>
+<p align="center">
+  <img src="seo-3.jpg" alt="GSC impressions, site 3" width="560"/>
+</p>
 
 ## Requirements
 
