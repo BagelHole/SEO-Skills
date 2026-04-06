@@ -25,9 +25,9 @@ Search Console impressions after shipping this workflow on personal properties. 
 
 <table>
   <tr>
-    <td align="center" valign="top"><img src="seo-1.jpg" alt="GSC impressions, site 1" width="280"/></td>
-    <td align="center" valign="top"><img src="seo-2.jpg" alt="GSC impressions, site 2" width="280"/></td>
-    <td align="center" valign="top"><img src="seo-3.jpg" alt="GSC impressions, site 3" width="280"/></td>
+    <td align="center" valign="top"><img src="seo-1.jpg" alt="GSC impressions, site 1" width="480"/></td>
+    <td align="center" valign="top"><img src="seo-2.jpg" alt="GSC impressions, site 2" width="480"/></td>
+    <td align="center" valign="top"><img src="seo-3.jpg" alt="GSC impressions, site 3" width="480"/></td>
   </tr>
 </table>
 
