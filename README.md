@@ -9,15 +9,27 @@ Agent Skills for SEO workflows. Use them in [Cursor](https://cursor.com), [Claud
 - **Bulk guide shipping** — Reads **`seo-work-brief.md`** (written by the audit skill) for the **new guide backlog**, then ships pages + **routes, sitemap, hub** updates.
 - **Room to grow** — More skills can land in this repo over time; PRs welcome.
 
+## Recommended order
+
+Run the skills **in this order** on the **site** you are optimizing:
+
+1. **[`gsc-ahrefs-browser-audit`](gsc-ahrefs-browser-audit/)** — Browser pass on Search Console + Ahrefs, then **write `seo-work-brief.md`** at the project root (tiers + new-guide backlog).
+2. **[`ctr-snippet-batch-optimize`](ctr-snippet-batch-optimize/)** — Use the brief’s **Tier 1–3** tables to batch **title / meta / schema** fixes on URLs that already get impressions (usually the fastest CTR wins).
+3. **[`bulk-seo-guides-from-keywords`](bulk-seo-guides-from-keywords/)** — Use the brief’s **New guide backlog** to ship new pages and wire **routes, sitemap, hub**; mark rows `shipped` in the same brief as you go.
+
+**After** you ship a large batch of new guides, run **step 1 again** so the brief reflects fresh GSC/Ahrefs data. Steps 2 and 3 both need the brief from step 1; if you only want new pages and have no snippet work, you can skip step 2.
+
 ## Results (GSC, author’s sites)
 
 Search Console impressions after shipping this workflow on personal properties. Results vary by site.
 
-![GSC impressions, site 1](seo-1.jpg)
-
-![GSC impressions, site 2](seo-2.jpg)
-
-![GSC impressions, site 3](seo-3.jpg)
+<table>
+  <tr>
+    <td align="center" valign="top"><img src="seo-1.jpg" alt="GSC impressions, site 1" width="280"/></td>
+    <td align="center" valign="top"><img src="seo-2.jpg" alt="GSC impressions, site 2" width="280"/></td>
+    <td align="center" valign="top"><img src="seo-3.jpg" alt="GSC impressions, site 3" width="280"/></td>
+  </tr>
+</table>
 
 ## Requirements
 
